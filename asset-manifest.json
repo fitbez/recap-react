@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recap-react/static/css/main.073c9b0a.css",
+    "main.js": "/recap-react/static/js/main.9cce0640.js",
+    "static/js/787.61a8808d.chunk.js": "/recap-react/static/js/787.61a8808d.chunk.js",
+    "index.html": "/recap-react/index.html",
+    "main.073c9b0a.css.map": "/recap-react/static/css/main.073c9b0a.css.map",
+    "main.9cce0640.js.map": "/recap-react/static/js/main.9cce0640.js.map",
+    "787.61a8808d.chunk.js.map": "/recap-react/static/js/787.61a8808d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9cce0640.js"
+  ]
+}
